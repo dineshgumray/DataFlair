@@ -1,0 +1,1 @@
+C:/Intel/Logs/IntelGFX.log,C:/Intel/Logs/IntelGFXCoin.log,C:/Windows/setuperr.log,
